@@ -8,6 +8,12 @@ body {
     margin: 0px;
     font-family: "gabriola";
 }
+.uhoh {
+margin-left: 50%;
+}
+.uhoh1 {
+    margin-left: 45%;
+}
 
 #status,
 #number_of_objects,
